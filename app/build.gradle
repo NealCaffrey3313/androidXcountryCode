@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "in.hbb20.countrycodepickerproject"
+        applicationId "in.NealCaffrey3313.androidXcountryCode"
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 6
